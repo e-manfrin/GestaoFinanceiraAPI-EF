@@ -22,5 +22,7 @@ namespace GestaoFinanceira.Models
             this.Valor = valor;
             this.Descricao = descricao;
         }
+
+        public Conta() { }
     }
 }
