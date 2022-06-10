@@ -14,5 +14,13 @@ namespace GestaoFinanceira.Models
         [Required(ErrorMessage = "O Campo Descricao é obrigatório")]
         [StringLength(100, ErrorMessage = "O limite do campo Descricao é de 100 caracteries")]
         public string Descricao { get; set; }
+
+        public Conta(int id, DateTime dataHora, double valor, string descricao)
+        {
+            this.Id = id;
+            this.DataHora = dataHora;   
+            this.Valor = valor;
+            this.Descricao = descricao;
+        }
     }
 }
