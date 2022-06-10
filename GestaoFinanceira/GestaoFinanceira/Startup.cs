@@ -29,7 +29,7 @@ namespace GestaoFinanceira
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ContaContext>(
-                opts => opts.UseSqlite(Configuration.GetConnectionString("ContaConnection"))
+                opts => opts.UseSqlite(Configuration.GetConnectionString("Default"))
                 );
 
             services.AddControllers();
