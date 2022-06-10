@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wKmfTkntFl/l/A7ckyJj4+cwzh1UcbsUyAGyOaCYN4yDIw4t4+eYOkSOSXSzDid/V1/51ujD5sHiVu8wyS/iAg==",
+  "dgSpecHash": "CZeg3rYxmJcqnJj0OKzQXbPZylrEACqYnZrW8PHbJoSprUROyXHxu6jJwIL78qkoVubPH89X+CnUwVWY5pA/lA==",
   "success": true,
   "projectFilePath": "C:\\Users\\drman\\OneDrive\\Área de Trabalho\\GestaoFinanceira\\GestaoFinanceira\\GestaoFinanceira\\GestaoFinanceira.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drman\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\drman\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\drman\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\drman\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\drman\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.5\\microsoft.data.sqlite.core.6.0.5.nupkg.sha512",
